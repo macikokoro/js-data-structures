@@ -46,4 +46,4 @@ This is how recursion works when the argument passed to the function is 5.
 ```
 #  
 
-<b>Objects: </b> in JavaScript they are a collection of properties created by defining a constructor function.
+<b>Objects: </b>a collection of properties created by defining a constructor function.
